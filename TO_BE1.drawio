@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" modified="2020-06-07T09:44:51.994Z" agent="5.0 (X11)" etag="VKBUNr-e-hvY7Tnz9sV4" version="13.1.14" type="github">
+  <diagram id="umUKt08_b0THqYxB4QMx" name="Page-1">
+    <mxGraphModel dx="978" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K8WBdkXXQI6Gq19Ea8D1-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Доступ к&amp;nbsp; сети интернет&lt;/font&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/font&gt;" style="endArrow=block;endFill=1;endSize=6;html=1;strokeWidth=5;entryX=0.127;entryY=-0.008;entryDx=0;entryDy=0;fontSize=15;entryPerimeter=0;" parent="1" target="K8WBdkXXQI6Gq19Ea8D1-16" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="602" y="200" as="sourcePoint" />
+            <mxPoint x="700" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8WBdkXXQI6Gq19Ea8D1-8" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Закон РФ&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt; &quot;О персональных данных&quot;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt; от 27.07.2006 N 152-ФЗ&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="endArrow=block;endFill=1;endSize=6;html=1;strokeWidth=5;fontSize=15;entryX=0.804;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="K8WBdkXXQI6Gq19Ea8D1-16" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="825" y="200" as="sourcePoint" />
+            <mxPoint x="1010" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8WBdkXXQI6Gq19Ea8D1-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Клиент&lt;/font&gt;" style="endArrow=block;endFill=1;endSize=6;html=1;strokeWidth=5;entryX=0.136;entryY=1.008;entryDx=0;entryDy=0;fontSize=15;entryPerimeter=0;" parent="1" target="K8WBdkXXQI6Gq19Ea8D1-16" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="605" y="840" as="sourcePoint" />
+            <mxPoint x="600" y="601" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8WBdkXXQI6Gq19Ea8D1-13" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Админ-ор&lt;/font&gt;" style="endArrow=block;endFill=1;endSize=6;html=1;strokeWidth=5;entryX=0.485;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" parent="1" target="K8WBdkXXQI6Gq19Ea8D1-16" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="720" y="840" as="sourcePoint" />
+            <mxPoint x="920" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8WBdkXXQI6Gq19Ea8D1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;targetPerimeterSpacing=0;strokeWidth=5;fontSize=15;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="775" y="739.9999999999998" as="sourcePoint" />
+            <mxPoint x="775" y="739.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8WBdkXXQI6Gq19Ea8D1-16" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Запись клиента&lt;br&gt;&lt;/font&gt;" style="html=1;strokeWidth=5;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="560" y="400" width="330" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="K8WBdkXXQI6Gq19Ea8D1-17" value="&lt;div&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Система&lt;/font&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;«Family арт-студия»&lt;/div&gt;" style="endArrow=block;endFill=1;endSize=6;html=1;strokeWidth=5;fontSize=15;" parent="1" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="850" y="840" as="sourcePoint" />
+            <mxPoint x="850" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8WBdkXXQI6Gq19Ea8D1-18" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Дата и время&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/font&gt;" style="endArrow=block;endFill=1;endSize=6;html=1;strokeWidth=5;fontSize=15;" parent="1" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="280" y="440" as="sourcePoint" />
+            <mxPoint x="560" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8WBdkXXQI6Gq19Ea8D1-19" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Нромер телефона&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/font&gt;" style="endArrow=block;endFill=1;endSize=6;html=1;strokeWidth=5;fontSize=15;" parent="1" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="280" y="520" as="sourcePoint" />
+            <mxPoint x="560" y="519.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8WBdkXXQI6Gq19Ea8D1-21" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;ФИО ребенка и родителя&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/font&gt;" style="endArrow=block;endFill=1;endSize=6;html=1;strokeWidth=5;fontSize=15;" parent="1" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="280" y="600" as="sourcePoint" />
+            <mxPoint x="560" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jKVN0mNPJ5Zp9i4Ilye9-2" value="Запись в бд" style="endArrow=block;endFill=1;endSize=6;html=1;strokeWidth=5;fontSize=15;exitX=0.997;exitY=0.346;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="K8WBdkXXQI6Gq19Ea8D1-16" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="1090" y="649.9999999999998" as="sourcePoint" />
+            <mxPoint x="1120" y="483" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jKVN0mNPJ5Zp9i4Ilye9-3" value="&lt;div&gt;Обновление &lt;br&gt;&lt;/div&gt;&lt;div&gt;Информации&lt;/div&gt;&lt;div&gt;в системе&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Система&lt;/font&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;«Family арт-студия»&lt;/div&gt;" style="endArrow=block;endFill=1;endSize=6;html=1;strokeWidth=5;fontSize=15;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="K8WBdkXXQI6Gq19Ea8D1-16" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="910" y="560.04" as="sourcePoint" />
+            <mxPoint x="1120" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
