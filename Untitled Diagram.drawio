@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2020-05-18T14:47:15.314Z" agent="5.0 (Windows)" etag="XgBaQ3NqvSsWULNnmpY8" version="13.1.2" type="github"><diagram id="umUKt08_b0THqYxB4QMx" name="Page-1">7Vpbc9o4FP41fgwjyVc9AobuzrY73clD00cXq+CNQVSIBPbXr6yLLdklIQSTdCgzUaSjo2NL+s6nowOeP17uPrBsvfhEc1J6COQ7z089hMIkEmUl2CsBDCMtmbMi17JGcFv8R7QQaOm2yMnGUeSUlrxYu8IZXa3IjDuyjDH66Kp9p6X71HU2Jx3B7Swru9IvRc4XSpqguJH/QYr5wjwZRlj1LDOjrGeyWWQ5fbRE/sTzx4xSrmrL3ZiU1eKZdVHjpgd66xdjZMWPGfBX8mWU39/d/fNn9OEHxJMsSeGN3oyHrNzqCXsoKoW90XcqzIq35nu9FNGPLTUdNxu5UUOhIF5h13SK2lz/P4eVFHg4qMrRxEuhl0BZIln6Uj4Vg2VlKCtKp9ZHpi5Ku45dZWVwKuuxLBMzAbGeag7uvL6xtqSjiJx5I7LKhxUeRetbSWf3QkeIpoXYI188XbY0/CPRWvCl6dhwRu9r9IVSlbP9nWiAAarbX6u2aaQ7p7XXLfVWJO9gvgGRcbKMzQl/AjkwqjEsnJ/QJREPEgMfGy+BQEOfkTLjxYP70Ex75rweW5v7TAsJG80isbGzb9k1JjZ0y2ZEj7Jd4BlDAQxdQ2rWHUOiYs2xEUkPe4G3JQe9LS8e3tzZtJXNOls5Dqg8wnhZ40Spdr2hKgPLExwbT3uSEMvJu9L3uh4Vx9aK1eJMDP8o9gglk7SISK5Vs4Yj2Ts2clFXktCYCizl9Gdq1qtew4rbfC7GxgMQDxAAgoDA3+IPhuhGI1DB9Syr0iN9H8vCFyFXCOCZ2LVjKWhb6pleIewrmqlwNTTOK8MD7ey1b6KD8LpMHAAwdAKBAcb+M8GAbH0mrBDrTtgvHSFEZus18vCpGI5aEUIE4GUh7PcJYft4GVtATm8sjgVvjOTIx20k4+tBMobJeZCMURvJFybjoAsYsRe3ukkZX9A5XWXlpJGOGN2ucpLrHWx0PlK61tj5l3C+17DKtpy6yCK7gisYhbr11epp4FM1DHr0Qhj43K6zWbGa685znt6vvQbFobOjsY8r36g/yYmXopeZ7Rs2YY8EOETWuT2yAvbACdXflv98v3OSB9fDf3HgovFk/ovDN+a/16fW/MMnuX0nn5qTvE6QjZuk2NMxqzJyck7riFvOA2Gc7J5GYBdYJn0cHbhQWMCrdRZWGlZoHgaes9Mv3ta4T35St/3RwOxfZDKdKqnQSSS8t2wkFstjcRccAJBcD3dBEAfnIS8IEhf5Ib4wex1OVZ4tpQ9cEgIm8Q6snDywSGuss/TvAvSnR4F9AK/Nk236OxZ3HcJtG+obdrhP2KUWpCbWJdgkbZGNyOeCxFcenVeDxRDigfnO97Vw/JmtnhGJ+swp6ox1Yn2T0OI86AZtdUjX4ssWrAMrImyh+TeDHoXazm3hVMhe+tpRmfx9cP8ysIOoy3AwBvUHnRg/hi+zezIoRbP5BYtSb34H5E/+Bw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-17T13:37:23.925Z" agent="5.0 (Windows)" etag="HKdJsetifC_mrAhoYXsE" version="13.2.6" type="github">
+  <diagram id="umUKt08_b0THqYxB4QMx" name="Page-1">
+    <mxGraphModel dx="907" dy="2027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K8WBdkXXQI6Gq19Ea8D1-6" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Доступ к сотовой связи&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="endArrow=block;endFill=1;endSize=6;html=1;strokeWidth=5;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" target="K8WBdkXXQI6Gq19Ea8D1-16" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="700" y="100" as="sourcePoint" />
+            <mxPoint x="700" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8WBdkXXQI6Gq19Ea8D1-8" value="&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;span&gt;Закон РФ&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;span&gt; &quot;О персональных данных&quot;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;span&gt; от 27.07.2006 N 152-ФЗ&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="endArrow=block;endFill=1;endSize=6;html=1;strokeWidth=5;" parent="1" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="1010" y="100" as="sourcePoint" />
+            <mxPoint x="1010" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8WBdkXXQI6Gq19Ea8D1-11" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Клиент&lt;/font&gt;" style="endArrow=block;endFill=1;endSize=6;html=1;strokeWidth=5;entryX=0.091;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="K8WBdkXXQI6Gq19Ea8D1-16" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="611" y="900" as="sourcePoint" />
+            <mxPoint x="600" y="601" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8WBdkXXQI6Gq19Ea8D1-13" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Администратор&lt;br&gt;&lt;/font&gt;" style="endArrow=block;endFill=1;endSize=6;html=1;strokeWidth=5;entryX=0.639;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="K8WBdkXXQI6Gq19Ea8D1-16" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="918" y="900" as="sourcePoint" />
+            <mxPoint x="920" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8WBdkXXQI6Gq19Ea8D1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;targetPerimeterSpacing=0;strokeWidth=5;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="775" y="739.9999999999998" as="sourcePoint" />
+            <mxPoint x="775" y="739.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8WBdkXXQI6Gq19Ea8D1-15" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Телефон&lt;/font&gt;" style="endArrow=block;endFill=1;endSize=6;html=1;strokeWidth=5;entryX=0.331;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="K8WBdkXXQI6Gq19Ea8D1-16" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="745" y="900" as="sourcePoint" />
+            <mxPoint x="750" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8WBdkXXQI6Gq19Ea8D1-16" value="&lt;font style=&quot;font-size: 30px&quot;&gt;Запись клиента&lt;br&gt;&lt;/font&gt;" style="html=1;strokeWidth=5;" parent="1" vertex="1">
+          <mxGeometry x="560" y="400" width="560" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="K8WBdkXXQI6Gq19Ea8D1-17" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Эл. журнал&lt;br&gt;&lt;/font&gt;" style="endArrow=block;endFill=1;endSize=6;html=1;strokeWidth=5;entryX=0.917;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="K8WBdkXXQI6Gq19Ea8D1-16" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="1074" y="900" as="sourcePoint" />
+            <mxPoint x="1080" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8WBdkXXQI6Gq19Ea8D1-18" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Дата и время&lt;br&gt;&lt;/font&gt;" style="endArrow=block;endFill=1;endSize=6;html=1;strokeWidth=5;" parent="1" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="160" y="440" as="sourcePoint" />
+            <mxPoint x="560" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8WBdkXXQI6Gq19Ea8D1-19" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Номер телефона&lt;br&gt;&lt;/font&gt;" style="endArrow=block;endFill=1;endSize=6;html=1;strokeWidth=5;" parent="1" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="160" y="519.66" as="sourcePoint" />
+            <mxPoint x="560" y="519.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8WBdkXXQI6Gq19Ea8D1-21" value="&lt;font style=&quot;font-size: 20px&quot;&gt;ФИО ребенка и родителя&lt;br&gt;&lt;/font&gt;" style="endArrow=block;endFill=1;endSize=6;html=1;strokeWidth=5;" parent="1" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="160" y="600" as="sourcePoint" />
+            <mxPoint x="560" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K8WBdkXXQI6Gq19Ea8D1-22" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Дата и время&lt;br&gt;&lt;/font&gt;" style="endArrow=block;endFill=1;endSize=6;html=1;strokeWidth=5;" parent="1" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="1120" y="519.1700000000002" as="sourcePoint" />
+            <mxPoint x="1520" y="519.1700000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
